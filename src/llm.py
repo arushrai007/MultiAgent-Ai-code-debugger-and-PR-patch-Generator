@@ -5,9 +5,9 @@ from openai import OpenAI   # pip install openai  (works for ALL providers below
 # Model names change over time, so check each provider's model list if one errors.
 PROVIDERS = [
     {"name": "groq",
-     "base_url": "https://api.groq.com/openai/v1",
-     "key_env": "GROQ_API_KEY",
-     "model": "llama-3.3-70b-versatile"},
+    "base_url": "https://api.groq.com/openai/v1",
+    "key_env": "GROQ_API_KEY",
+    "model": "openai/gpt-oss-120b"},
     {"name": "gemini",
      "base_url": "https://generativelanguage.googleapis.com/v1beta/openai/",
      "key_env": "GEMINI_API_KEY",
