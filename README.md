@@ -1,6 +1,5 @@
 ---
 title: DebugFlow AI - Autonomous Multi-Agent Code Debugger & PR Generator
-emoji: ⚡
 colorFrom: indigo
 colorTo: cyan
 sdk: gradio
@@ -9,6 +8,7 @@ app_file: app.py
 pinned: false
 license: mit
 ---
+Click here for Demo: https://www.linkedin.com/feed/update/urn:li:activity:7512847972561416192/ 
 
 <div align="center">
 
